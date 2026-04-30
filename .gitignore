@@ -1,1 +1,7 @@
 .env
+build/
+dist/
+*.AppImage
+ShellMemo.AppDir/
+venv/
+__pycache__/
