@@ -36,7 +36,7 @@ https://github.com/MtTakao599/shellmemo-ai/releases
 
 ## 📸 スクリーンショット
 
-![AI検索](./スクリーンショット_AI検索結果.png)
+![AI検索](./スクリーンショット_AI検索結果画面.png)
 
 ![管理画面](./スクリーンショット_管理画面.png)
 
