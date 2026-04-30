@@ -18,8 +18,7 @@ Linuxコマンドを「保存・検索・AI生成」できる軽量ツール
 ---
 
 ## 🚀 ダウンロード
-
-👉 [Releasesはこちら](../../releases)
+https://github.com/MtTakao599/shellmemo-ai/releases
 
 ---
 
