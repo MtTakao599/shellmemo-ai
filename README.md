@@ -34,10 +34,15 @@ https://github.com/MtTakao599/shellmemo-ai/releases
 
 ---
 
+## 📸 スクリーンショット
+
+![AI検索](./スクリーンショット_AI検索結果.png)
+![管理画面](./スクリーンショット_管理画面.png)
+
+---
+
 ## ▶ 使い方
 
 ```bash
 chmod +x ShellMemo-AI-v1.0.AppImage
 ./ShellMemo-AI-v1.0.AppImage
-<img width="902" height="629" alt="スクリーンショット_管理画面" src="https://github.com/user-attachments/assets/1583b847-a22a-4c16-a701-a87f55da484f" />
-<img width="897" height="677" alt="スクリーンショット_AI検索結果画面" src="https://github.com/user-attachments/assets/96c48437-6700-4e97-8bd3-65d8d7a46e76" />
